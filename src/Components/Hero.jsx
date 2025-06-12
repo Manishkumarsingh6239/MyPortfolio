@@ -27,7 +27,7 @@ const Hero = () => {
                 < i class='bxr  bx-link'  ></i> 
               </a>
               <a className='border border-[#2a2a2a] py-2 sm:py-3 px-4 sm:px-5 rounded-full sm:text-lg text-sm font-semibold tracking-wider transition-all duration-300 bg-gray-300 text-black hover:bg-[#1a1a1a] hover:text-white' href="#">
-                Get Started
+                Get Sttd
                 < i class='bxr  bx-link'  ></i> 
               </a>
             </div>
